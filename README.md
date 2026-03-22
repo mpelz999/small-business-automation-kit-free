@@ -23,8 +23,9 @@ Every script in this kit is:
 | 06 | `06_webpage_change_monitor.py` | Alerts you when a webpage's content changes |
 | 07 | `07_weekly_digest_builder.py` | Compiles your weekly log into a formatted summary email |
 
-> **Note:** Script 01 is free and fully functional. Scripts 02–07 are included in the [paid kit on Gumroad](#).
+> **Note:** Script 01 is free and fully functional. Scripts 02–07 are included in the Gumroad (https://mikaelpelz.gumroad.com/l/winith).
 
+See how Script 01 works here--https://www.youtube.com/watch?v=PuiTop3L1IE
 ---
 
 ## Setup
